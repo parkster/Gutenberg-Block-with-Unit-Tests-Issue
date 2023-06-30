@@ -82,8 +82,9 @@ Snapshots:   0 total
 Time:        0.717 s
 Ran all test suites.
 ```
-
-**Add ```jest-preset-default``` > ```jest.config.json```**
+** So then I add the package `npm install @wordpress/jest-preset-default --save-dev
+`**
+**...then add ```jest-preset-default``` > ```jest.config.json```**
 ```json
 {
     "preset": "@wordpress/jest-preset-default"

@@ -16,6 +16,7 @@
 		"test:unit": "wp-scripts test-unit-js"
 	},
 	"devDependencies": {
+		"@wordpress/jest-preset-default": "^11.7.0",
 		"@wordpress/scripts": "^26.7.0"
 	}
 }
