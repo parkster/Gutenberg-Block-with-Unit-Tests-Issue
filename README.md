@@ -104,4 +104,4 @@ Jest encountered an unexpected token
 }
 ```
 
-**...but the error remains**
+**...but then the original error ```Cannot find module '@testing-library/react' from 'src/__test__/edit.test.js'``` comes back**
